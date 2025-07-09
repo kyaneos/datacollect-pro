@@ -1,10 +1,10 @@
 # DataCollect Pro
 
-A professional online data collection platform for researchers, built with Svelte 5.
+A professional online data collection platform shell for researchers, built with Svelte 5.
 
 ## About
 
-DataCollect Pro is a modern web application that enables researchers to create, distribute, and analyze surveys. The platform provides tools for both survey creators and participants, with features for data collection, analytics, and user management.
+DataCollect Pro is a modern web application that enables researchers to create, distribute, and analyze surveys. The platform provides tools for both survey creators and participants, with features for data collection, analytics, and user management. Further integration and modification is possible through instructions below.
 
 ## Features
 
